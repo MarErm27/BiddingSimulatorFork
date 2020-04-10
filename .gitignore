@@ -1,0 +1,43 @@
+# Output files
+sdexcc
+version.go
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.log
+*.kdbx
+*.db
+__debug_bin
+debug
+debug.*
+
+# Build directory
+build/
+
+# Dependency directories
+vendor/
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# VSCode directory
+.vscode
+
+# JetBrains directory
+.idea
+
+# Temp directory
+.tmp
+
+# MacOS directory
+.DS_Store
+
+# HLF test network
+/testnet

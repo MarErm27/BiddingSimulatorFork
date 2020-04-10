@@ -1,0 +1,124 @@
+{
+  "display_name": "Auction 1",
+  "fields": {
+    "ApplicationDeadline": {
+      "display_name": "Application Deadline",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "BiddingFinish": {
+      "display_name": "Bidding Finish",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "BiddingStart": {
+      "display_name": "Bidding Start",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "Buyer": {
+      "display_name": "Buyer",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "CurrentBestOfferTime": {
+      "display_name": "Current Best Offer Time",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "CurrentParticipantWithBestOffer": {
+      "display_name": "Current Participant With Best Offer",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "CurrentPrice": {
+      "display_name": "Current Price",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "EstimatedDatesAndEndTime": {
+      "display_name": "Estimated Dates And End Time",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "FivePercentsOfInitialPrice": {
+      "display_name": "Five Percents Of Initial Price",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "HalfPercentOfInitialPrice": {
+      "display_name": "Half Percent Of Initial Price",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "ID": {
+      "display_name": "ID",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "InitialPrice": {
+      "display_name": "Initial Price",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "Name": {
+      "display_name": "Name",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "PublicationDate": {
+      "display_name": "Publication Date",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "Status": {
+      "display_name": "Status",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "TimeToFinish": {
+      "display_name": "Time To Finish",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    },
+    "TotalOffersSubmitted": {
+      "display_name": "Total Offers Submitted",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": {}
+    }
+  }
+}
