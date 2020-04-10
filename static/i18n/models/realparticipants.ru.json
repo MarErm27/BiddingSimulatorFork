@@ -1,0 +1,40 @@
+{
+  "display_name": "Translate me ---> Real Participants",
+  "fields": {
+    "CurrentPosition": {
+      "display_name": "Translate me ---> Current Position",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "FallLimit": {
+      "display_name": "Translate me ---> Fall Limit",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "ID": {
+      "display_name": "Translate me ---> ID",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "LastOffer": {
+      "display_name": "Translate me ---> Last Offer",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "Name": {
+      "display_name": "Translate me ---> Name",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "display_name": "Translate me ---> Auction",
+  "fields": {
+    "ApplicationDeadline": {
+      "display_name": "Translate me ---> Application Deadline",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "BiddingFinish": {
+      "display_name": "Translate me ---> Bidding Finish",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "BiddingStart": {
+      "display_name": "Translate me ---> Bidding Start",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "Buyer": {
+      "display_name": "Translate me ---> Buyer",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "CurrentBestOfferTime": {
+      "display_name": "Translate me ---> Current Best Offer Time",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "CurrentFall": {
+      "display_name": "Translate me ---> Current Fall",
+      "help": "",
+      "pattern_msg": "Translate me ---> Your input must be a number.",
+      "err_msg": {},
+      "Choices": null
+    },
+    "CurrentParticipantWithBestOffer": {
+      "display_name": "Translate me ---> Current Participant With Best Offer",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "CurrentPrice": {
+      "display_name": "Translate me ---> Current Price",
+      "help": "",
+      "pattern_msg": "Translate me ---> Your input must be a number.",
+      "err_msg": {},
+      "Choices": null
+    },
+    "EstimatedDatesAndEndTime": {
+      "display_name": "Translate me ---> Estimated Dates And End Time",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "FivePercentsOfInitialPrice": {
+      "display_name": "Translate me ---> Five Percents Of Initial Price",
+      "help": "",
+      "pattern_msg": "Translate me ---> Your input must be a number.",
+      "err_msg": {},
+      "Choices": null
+    },
+    "HalfPercentOfInitialPrice": {
+      "display_name": "Translate me ---> Half Percent Of Initial Price",
+      "help": "",
+      "pattern_msg": "Translate me ---> Your input must be a number.",
+      "err_msg": {},
+      "Choices": null
+    },
+    "ID": {
+      "display_name": "Translate me ---> ID",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "InitialPrice": {
+      "display_name": "Translate me ---> Initial Price",
+      "help": "",
+      "pattern_msg": "Translate me ---> Your input must be a number.",
+      "err_msg": {},
+      "Choices": null
+    },
+    "Name": {
+      "display_name": "Translate me ---> Name",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "PublicationDate": {
+      "display_name": "Translate me ---> Publication Date",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "Status": {
+      "display_name": "Translate me ---> Status",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "Test": {
+      "display_name": "Translate me ---> Test",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "TimeToFinish": {
+      "display_name": "Translate me ---> Time To Finish",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    },
+    "TotalOffersSubmitted": {
+      "display_name": "Translate me ---> Total Offers Submitted",
+      "help": "",
+      "pattern_msg": "",
+      "err_msg": {},
+      "Choices": null
+    }
+  }
+}

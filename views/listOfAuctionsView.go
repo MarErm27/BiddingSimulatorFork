@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/MarErm27/BiddingSimulator/models"
+	"github.com/MarErm27/BiddingSimulatorFork/models"
 	"github.com/MarErm27/uadmin"
 )
 
@@ -257,7 +257,8 @@ func listOfAuctionsHandler(w http.ResponseWriter, r *http.Request) {
 	auctions := []models.Auction{}
 	// translateSchema(&c.Schema, c.Language.Code)
 	uadmin.All(&auctions)
-	uadmin.CustomTranslation(&auctions[0], "ru")
+	modelschema := uadmin.Schema["auctions"]
+	uadmin.TranslateSchema(&modelschema, "ru")
 
 	// if len(auctions) == 0 {
 	// 	createAuctions()
