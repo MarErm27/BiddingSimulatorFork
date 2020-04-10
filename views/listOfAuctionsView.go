@@ -255,9 +255,9 @@ func listOfAuctionsHandler(w http.ResponseWriter, r *http.Request) {
 	}
 
 	auctions := []models.Auction{}
-	// translateSchema(&c.Schema, c.Language.Code)
+
 	uadmin.All(&auctions)
-	modelschema := uadmin.Schema["auctions"]
+	modelschema := uadmin.Schema["auction"]
 	uadmin.TranslateSchema(&modelschema, "ru")
 
 	// if len(auctions) == 0 {
